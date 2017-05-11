@@ -1,1 +1,1 @@
-teste
+echo $"teste"
